@@ -1,0 +1,58 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python and Jupyter files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore system files
+.Trash/
+
+# Add other files and directories you want to ignore
+.anaconda/
+.android/
+.atom/
+.bash_history
+.bash_profile
+.bash_sessions/
+.bitnami/
+.cache/
+.conda/
+.condarc
+.config/
+.continuum/
+.cups/
+.eclipse/
+.git-bash-for-mac.sh
+.git-completion.bash
+.git-prompt.sh
+.gitconfig
+.idlerc/
+.matplotlib/
+.nuuid.ini
+.oracle_jre_usage/
+.p2/
+.spyder-py3/
+.ssh/
+.tcshrc
+.tooling/
+.viminfo
+.vscode/
+.xonshrc
+.zshrc
+Applications/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+PycharmProjects/
+Virtual Machines.localized/
+anaconda3/
+homebrew/
+iCloud Drive (Archive)/
+
